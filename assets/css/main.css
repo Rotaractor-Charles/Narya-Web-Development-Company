@@ -3302,6 +3302,7 @@ input, select, textarea {
 
 					#nav ul li a:hover {
 						background-color: rgba(222, 222, 222, 0.25);
+						color: black;
 					}
 
 					#nav ul li a.active {
