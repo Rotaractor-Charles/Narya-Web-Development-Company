@@ -125,7 +125,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #EEEEEE;
+		background-color: #AE9FA6;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -2907,23 +2907,23 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #ac0521;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #1c1a1f;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #b3a4ab;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #9d7f73;
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #9f4962;
 			}
 
 			.statistics li strong, .statistics li b {
@@ -3222,7 +3222,7 @@ input, select, textarea {
 		width: 64em;
 		max-width: calc(100% - 4em);
 		padding: 1em;
-		background-color: white;
+		background-color: #EEEEEE;
 		border-top-left-radius: 0.25em;
 		border-top-right-radius: 0.25em;
 		cursor: default;
@@ -3278,7 +3278,7 @@ input, select, textarea {
 				margin: 0 0.35em;
 				padding: 0;
 				vertical-align: middle;
-				background-color: #35B7FE;
+				background-color: #9F4962;
 			}
 
 				#nav ul li a {
@@ -3300,7 +3300,7 @@ input, select, textarea {
 					}
 
 					#nav ul li a.active {
-						background-color: white;
+						background-color: #EEEEEE;
 						box-shadow: none;
 						color: black;
 					}
@@ -3382,9 +3382,9 @@ input, select, textarea {
 		#main input[type="button"],
 		#main button,
 		#main .button {
-			background-color: #35B7FE;
+			background-color: #E5C473;
 			box-shadow: inset 0 0 0 1px #dddddd;
-			color: white !important;
+			color: black !important;
 		}
 
 			#main input[type="submit"]:hover,
@@ -3416,7 +3416,7 @@ input, select, textarea {
 			#main input[type="button"].primary,
 			#main button.primary,
 			#main .button.primary {
-				background-color: #35B7FE;
+				background-color: #E5C473;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
