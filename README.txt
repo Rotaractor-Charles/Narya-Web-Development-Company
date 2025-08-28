@@ -1,37 +1,40 @@
-Got it ✅ — thanks for clarifying. Let’s rewrite your **README.md** so it’s for **Narya**, your company/project, and not “Stellar.” Here’s a professional yet simple draft you can use as a base:
+Absolutely, Charles. Here's your updated **README.md** rewritten to reflect the full identity and capabilities of **Narya Software Development Company**. It now includes your broader scope—web, desktop, mobile, SaaS, and scraping systems—with updated contact details and a more strategic tone.
 
 ---
 
-# Narya — Web Development & Applications
+# Narya Software Development Company — Scalable Systems & Strategic Platforms
 
-**Narya** is a modern web development and web applications company dedicated to building responsive, scalable, and user-friendly digital experiences. We specialize in creating custom websites, powerful web applications, and performance-driven solutions for businesses of all sizes.
+**Narya Software Development Company** builds high-performance software systems tailored to business growth and operational excellence. We specialize in modular scraping engines, secure SaaS platforms, responsive websites, mobile apps, and desktop applications—delivered through a milestone-driven, collaborative process.
 
 ---
 
 ## What We Do
 
-* **Website Development** — custom, responsive, and SEO-friendly sites.
-* **Web Applications** — scalable apps built for performance and usability.
-* **UI/UX Design** — intuitive interfaces that delight users.
-* **Optimization** — fast, secure, and future-proof solutions.
+* **Web Development** — responsive websites and full-stack web platforms.
+* **Windows Applications** — modular desktop tools with rich interfaces and scraping engines.
+* **Mobile Applications** — Android and iOS apps built for performance and usability.
+* **SaaS Platforms** — secure, scalable systems with Stripe integration and export pipelines.
+* **Data Scraping & Enrichment** — high-concurrency scrapers, normalization, and ingestion APIs.
+* **SEO & Indexing** — programmatic SEO pages and structured data interfaces.
 
 ---
 
 ## Key Features
 
-* Clean, modern code.
+* Modular, maintainable architecture.
 * Mobile-first, responsive design.
-* Scalable and maintainable applications.
-* Tailored solutions for businesses and startups.
+* Secure API integrations and backend pipelines.
+* Performance optimization and structured logging.
+* Milestone-based delivery and transparent communication.
 
 ---
 
 ## Getting Started
 
-1. Clone or download the project.
-2. Open `index.html` in your browser (if static).
+1. Clone or download the project repository.
+2. Open `index.html` in your browser (for static builds).
 3. Configure styles in `assets/css/` and scripts in `assets/js/`.
-4. Replace placeholder content with your own.
+4. Replace placeholder content with your own or integrate with backend endpoints.
 
 ---
 
@@ -39,7 +42,6 @@ Got it ✅ — thanks for clarifying. Let’s rewrite your **README.md** so it�
 
 * **Icons:** Font Awesome (fontawesome.io)
 * **Scripts & Tools:**
-
   * jQuery (jquery.com)
   * Scrollex (github.com/ajlkn/jquery.scrollex)
   * Responsive Tools (github.com/ajlkn/responsive-tools)
@@ -49,17 +51,14 @@ Got it ✅ — thanks for clarifying. Let’s rewrite your **README.md** so it�
 
 ## License
 
-This project is distributed under the **Creative Commons Attribution 3.0** license.
-You’re free to use it personally and commercially, but attribution to **Narya** is required.
+This project is distributed under the **Creative Commons Attribution 3.0** license.  
+You’re free to use it personally and commercially, but attribution to **Narya Software Development Company** is required.
 
 ---
 
 ## Contact
 
-📍 Location: Kapsabet / Eldoret, Kenya
-📞 +254 711 367 192 | +254 252 09792
-✉️ [info@narya.com](mailto:info@narya.com) *(or your preferred email)*
-
----
-
+📍 Location: Nairobi, Kenya  
+📞 +254 725 209792 | +254 751 398556  
+✉️ [naryasoftwaredev@gmail.com](mailto:naryasoftwaredev@gmail.com)
 
