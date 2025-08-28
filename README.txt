@@ -1,6 +1,4 @@
-Absolutely, Charles. Here's your updated **README.md** rewritten to reflect the full identity and capabilities of **Narya Software Development Company**. It now includes your broader scope—web, desktop, mobile, SaaS, and scraping systems—with updated contact details and a more strategic tone.
 
----
 
 # Narya Software Development Company — Scalable Systems & Strategic Platforms
 
