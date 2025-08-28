@@ -3310,6 +3310,10 @@ input, select, textarea {
 						box-shadow: none;
 						color: black;
 					}
+					div.CEO{
+						display: flex;
+						flex-direction: column !important;
+					}
 
 		#nav.alt {
 			position: fixed;
